@@ -6,7 +6,8 @@ This is a simple vulnerability assessment tool built in Python. It scans a targe
 - Port Scanning
 - Service & Version Detection
 - CVE Lookup (via API)
-- Pretty Table Output (Rich)
+-
+
 
 ## 🛠 How to Run
 ```bash
